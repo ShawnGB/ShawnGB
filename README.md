@@ -6,23 +6,25 @@ I build web applications that balance technical clarity with user needs. My back
 
 ## Experience
 
-**Freiheit.software** Full-Stack Developer, 2021-2022
+**Freelance** — Web Developer, 2023–present
+Go, React, TypeScript, custom web solutions
+
+**Freiheit.software** — Full-Stack Developer, 2021–2022
 React, TypeScript, Node.js for enterprise clients
 
-**Data4Life** Technical Project Manager, 2021
+**Data4Life** — Technical Project Manager, 2021
 Cross-functional product teams in digital health
 
-**Yptokey** Product Owner and Frontend Developer, 2018-2020
+**Yptokey** — Product Owner & Frontend Developer, 2018–2020
 React frontends for blockchain IoT systems
-
-**Freelance** Web Developer, 2023-present
-WordPress, React, Go, custom web solutions
 
 ## Tech
 
-TypeScript, React, Go, Node.js, Python, PostgreSQL, MongoDB
+Go · TypeScript · React · Node.js · Python · PostgreSQL · MongoDB
 
-## Contact
+## Find me
 
-Portfolio: [shawnbecker.de](https://shawnbecker.de)
-Email: contact@shawnbecker.de
+- Portfolio: [shawnbecker.de](https://shawnbecker.de)
+- GitHub: [github.com/ShawnGB](https://github.com/ShawnGB)
+- Codeberg: [codeberg.org/ShawnGB](https://codeberg.org/ShawnGB)
+- Email: contact@shawnbecker.de
